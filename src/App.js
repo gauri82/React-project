@@ -5,19 +5,19 @@ const expenses=[
   id:'e1',
   title:'toilet paper',
   amount:94.12,
-  date: new Date(2023,2,8),
+  date: new Date(2023,2,8)
 },
 {
   id:'e2',
   title:'mum1',
   amount:94.12,
-  date: new Date(2023,2,8),
+  date: new Date(2023,2,8)
 },
 {
   id:'e3',
   title:'maxi',
   amount:94.12,
-  date: new Date(2023,2,8),
+  date: new Date(2023,2,8)
 }
 ]
 
